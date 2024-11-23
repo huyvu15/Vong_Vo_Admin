@@ -1,3 +1,4 @@
+"use client";
 import Wrapper from "@/layout/wrapper";
 import Breadcrumb from "../components/breadcrumb/breadcrumb";
 import AddStaffArea from "../components/our-staff/staff-area";
